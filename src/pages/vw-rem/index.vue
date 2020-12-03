@@ -1,6 +1,5 @@
 <template>
   <div>
-    test
     <LayoutDemo />  
   </div>
 </template>
@@ -15,5 +14,5 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'style'
+@import 'style';
 </style>

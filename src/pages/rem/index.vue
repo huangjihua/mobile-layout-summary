@@ -6,6 +6,7 @@
 
 <script>
 import LayoutDemo from '@comps/layout-demo.vue';
+import './rem'
 
 export default {
   components:{
@@ -14,5 +15,5 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'style'
+@import 'style';
 </style>
