@@ -8,7 +8,7 @@
 
 **1. REM 布局** 
 
-[http://localhost:4321/rem/index.html](http://localhost:5000/rem/index.html)
+[http://localhost:5000/](http://localhost:5000/)
 
 使用js动态设置html的font-size，css使用rem单位，文本大小可选择使用px
 
@@ -18,7 +18,7 @@ js设置viewport的scale以支持高清设备的1px
 
 **2. VW 布局**
 
-[http://localhost:4321/vw/index.html](http://localhost:5000/vw)
+[http://localhost:5000/vw](http://localhost:5000/vw)
 
 css使用vw单位，文本大小可选择使用px
 
@@ -28,7 +28,7 @@ css使用vw单位，文本大小可选择使用px
 
 **3. REM + VW 布局**
 
-[http://localhost:4321/vw-rem/index.html](http://localhost:5000/vw-rem)
+[http://localhost:5000/vw-rem](http://localhost:5000/vw-rem)
 
 html的font-size使用vw单位，css使用rem单位，文本大小可选择使用px
 
